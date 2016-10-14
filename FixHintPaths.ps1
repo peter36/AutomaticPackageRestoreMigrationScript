@@ -1,5 +1,5 @@
 ﻿$hintPathPattern = @"
-<HintPath>(\d|\w|\s|\.|\\)*packages
+<HintPath>(c:|d:)?(\d|\w|\s|\.|\\)*packages
 "@
 
 ls -Recurse -include *.csproj, *.sln, *.fsproj, *.vbproj |

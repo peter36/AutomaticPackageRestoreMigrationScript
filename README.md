@@ -1,3 +1,7 @@
+This repository is forked from: https://github.com/owen2/AutomaticPackageRestoreMigrationScript
+With minor changes to the regex pattern in "FixHintPaths.ps1" to match c:\ or d:\ paths.
+
+
 # Owen's bag of nuget related scripts!
 
 ## migrateToAutomaticPackageRestore.ps1
